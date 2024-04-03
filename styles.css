@@ -1,0 +1,35 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  header {
+    background: #ffccff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #333366;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+  h1, h2 {
+    color: #333366;
+  }
+  p {
+    line-height: 1.6;
+  }
+  .instructions {
+    background-color: #ffffff;
+    padding: 15px;
+    border-left: 5px solid #333366;
+  }
+  /* Add more styles as needed */
+  
